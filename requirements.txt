@@ -1,5 +1,5 @@
 opencv-python-headless
-tensorflow-cpu
+tensorflow
 streamlit
 numpy
 pandas
