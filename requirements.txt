@@ -1,1 +1,1 @@
-opencv-python-contrib-headless
+opencv-python
