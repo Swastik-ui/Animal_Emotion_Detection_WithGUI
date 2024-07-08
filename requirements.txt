@@ -1,8 +1,0 @@
-numpy
-streamlit
-tensorflow
-opencv-python-headless
-Pillow
-keras
-tkinter
-
