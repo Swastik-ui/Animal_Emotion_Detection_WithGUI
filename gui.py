@@ -6,7 +6,7 @@ from tkinter import Tk, Label, Button, filedialog, Canvas
 from PIL import Image, ImageTk
 
 # Load the saved model
-loaded_model = load_model("facial_expression_model.h5")
+loaded_model = load_model("expressions_model.h5")
 
 # Function to load and preprocess images
 def preprocess_image(image_path):
